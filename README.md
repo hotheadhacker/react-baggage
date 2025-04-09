@@ -1,5 +1,5 @@
 <img src="https://raw.githubusercontent.com/react-boilerplate/react-boilerplate-brand/master/assets/banner-metal-optimized.jpg" alt="react boilerplate banner" align="center" />
-
+<!-- GitAds-Verify: D9JVRK2B9W1IELB9IIR5XYD3S9OK7IPN -->
 ## GitAds Sponsored
 [![Sponsored by GitAds](https://staging.gitads.dev/v1/ad-serve?source=hotheadhacker/react-baggage@github)](https://staging.gitads.dev/v1/ad-track?source=hotheadhacker/react-baggage@github)
 
